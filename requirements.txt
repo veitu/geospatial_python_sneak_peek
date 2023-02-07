@@ -1,0 +1,9 @@
+geopandas
+openrouteservice
+matplotlib
+ohsome
+ipywidgets
+ipyleaflet
+pygeos
+contextily
+matplotlib_scalebar
