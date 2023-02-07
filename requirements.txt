@@ -3,6 +3,7 @@ openrouteservice
 matplotlib
 ohsome
 ipywidgets
+jupyter_contrib_nbextensions
 ipyleaflet
 pygeos
 contextily
