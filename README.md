@@ -2,7 +2,7 @@
 
 This repository gives a brief demonstration of how to perform geospatial analysis using Python, openrouteservice and ohsome API. It is a classic site selection analysis to find a suitable apartment.
 
-To get started right away without setting up the Python environment on your computer, you can run the analysis on. Just click the button.
+To get started right away without setting up the Python environment on your computer, you can run the analysis on Binder. Just click the button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veitu/geospatial_python_sneak_peek/HEAD?labpath=apartment_search.ipynb).
 
 <p align=center>
 <img src="./img/final_map.png" width=800px/>
